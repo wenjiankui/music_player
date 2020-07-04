@@ -5,6 +5,8 @@
 
 1968967834@qq.com
 
+CSDN地址：https://blog.csdn.net/qq_39025957
+
 2020年7月1日
 
 """
@@ -12,7 +14,6 @@
 
 from urllib.request import urlretrieve
 from selenium import webdriver
-from pyvirtualdisplay import Display
 
 import mp3play
 import threading
